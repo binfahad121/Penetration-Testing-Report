@@ -5,9 +5,6 @@
 ![Modules](https://img.shields.io/badge/Modules-W2--PM1_%7C_W2--PM5-2EA043)
 ![Status](https://img.shields.io/badge/Phase_1_&_2-Completed-success)
 
-**Author:** Fahad Bin Islam  
-**Date:** 17 November 2026  
-**Scope:** `networkwalks.com` (Authorized) & Local LAN (`192.168.68.0/24`)
 
 ---
 
